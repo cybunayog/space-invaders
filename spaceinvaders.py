@@ -1,4 +1,4 @@
-#Space Invaders
+#Space Invaders, thanks to a YouTube tutorial
 #Python, just for fun
 import turtle
 import os
